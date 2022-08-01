@@ -62,5 +62,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow to see current location</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Please allow to view photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please allow to view photos</string>
 </dict>
 </plist>
